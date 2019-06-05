@@ -2,6 +2,8 @@ Requirements
 	Internet connection
 	Ruby version 2.3.3 or higher
 		Gem Cucumber
+		Gem Rspec
+		Gem Watir
 	Installing Selenium-Webdriver
 	Chromedriver.exe in C:\
 
